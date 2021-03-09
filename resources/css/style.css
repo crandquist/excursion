@@ -17,7 +17,6 @@ h2 {
 
 footer {
     text-align: right;
-    color: gray;
 }
 
 p {
@@ -28,5 +27,4 @@ p {
 #download {
     color: aquamarine;
     font-size: 16px;
-    text-decoration: underline;
 }
