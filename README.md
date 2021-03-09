@@ -1,4 +1,4 @@
-#Excursion
+# Excursion
 
 This is my version of the Excursion Project for CodeCademy's Full Stack Engineer course.
 
